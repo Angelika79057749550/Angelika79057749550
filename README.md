@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angelika79057749550
-- 👀 I’m interested in ...
+- 👀 I’m interested in PostgreSQL
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Ruby on Rails ! 
 - 📫 How to reach me   m9057749550@mail.ru 
